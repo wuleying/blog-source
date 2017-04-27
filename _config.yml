@@ -7,7 +7,7 @@ title: Silver's blog
 subtitle:
 description:
 author: luoliang
-language: zh-CN
+language: zh-Hans
 timezone: Asia/Shanghai
 
 # URL
@@ -71,14 +71,3 @@ deploy:
   type: git
   repo: https://github.com/wuleying/wuleying.github.io.git
   branch: master
-
-# Other
-since: 2006
-sidebar: post
-
-menu:
-  home: /
-  categories: /categories
-  books: /books
-  tags: /tags
-  about: /about
